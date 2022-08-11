@@ -8,4 +8,8 @@ Pueden hacer lo que quieran...
 
 ## Modificaciones 
 
-Estas modificaciones son realizadas para que puedan ser actualizadas mediante el comando 'pull' desde el repositorio local. 
+Estas modificaciones son realizadas para que puedan ser actualizadas mediante el comando 'pull' desde el repositorio local.
+
+# Nuevas modificaiones
+
+Se realizan nuevas modificaciones desde la aplicación GitHub.
